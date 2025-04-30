@@ -5,7 +5,7 @@
   "menu_audio": false,
   "verificado": true,
   "modoaluguel": true,
-  "consoleoff": true,
+  "consoleoff": false,
   "antipv": false,
   "anticall": true,
   "visualizarmsg": true,
