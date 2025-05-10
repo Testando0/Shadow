@@ -10,7 +10,7 @@
   "anticall": true,
   "visualizarmsg": true,
   "listanegraG": [],
-  "botoes": true,
+  "botoes": false,
   "site": "https://kayserapis.com",
   "TOKEN_GPT": ".",
   "cmd_premium": [],
